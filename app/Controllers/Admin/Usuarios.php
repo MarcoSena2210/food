@@ -16,7 +16,6 @@ class Usuarios extends BaseController{
 		
 	}
     
-
 	/** @uso Exibe a lista de usuários cadastrados
 	 *  @param nenhum
 	 *  @return objeto usuario 
@@ -289,8 +288,6 @@ class Usuarios extends BaseController{
 
 	}
  
-
-
 
 
 	/** @uso Busca um usuário por seu código "ID"
